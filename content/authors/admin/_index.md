@@ -59,5 +59,5 @@ user_groups:
 - Visitors
 ---
 
-#I'm a theoretical physicist focused on understanding what exists Beyond the Standard Models of particle physics and cosmology 
+# I'm a theoretical physicist focused on understanding what exists Beyond the Standard Models of particle physics and cosmology 
 So far this is a placeholder that [my husband](http://sethko.ren) quickly set up. 
