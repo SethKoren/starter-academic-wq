@@ -1,0 +1,65 @@
+---
+title: blabla
+linktitle: blabla
+type: book
+date: "2019-05-05T00:00:00+01:00"
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 99
+---
+
+What you sense is an *enormously* complex system. Heck, *how* you sense is an enormously complex system. How did all of this enormous complexity come to be?
+What has happened in the wavefunction of the universe in your past lightcone? 
+Which events and developments have shaped the particular world in which you find yourself, and the particular means by which you do so. Could all of this really have some simple origin?
+
+
+One of my professional interests is in particle 'phenomenology', which is a role that not all fields have. 
+In high energy physics one distinguishes (approximately) between 'formal theory', 
+which involves understanding the theoretical frameworks underpinning the universe; 
+high energy 'experiment'; which covers work on colliders and detectors and hardcore analysis of the data thereof;
+and 'phenomenology'; which sits somewhere in the middle attempting to connect the two and understand which particular physical models are realized in Nature.
+
+One silver lining of being shut inside my apartment alone for a year has been the time to watch science documentaries and lectures, and in doing so I have been reminded how very awesome the world is.
+Outside of my research, I am also fascinated by the many many aspects of how the natural world we see has developed into that which we deserve.
+So I'd like to collect here some lectures I have enjoyed on this topic. I assume some nice term for the topic I mean exists; it's really some particular slice through many many fields.
+
+How did things come to serve the functions they do?
+
+**Particle physics: From the Planck time to a minute and beyond**
+
+- Planck time: The Cosmological Constant being so much smaller than expected allows the universe to avoid both quick collapse and eternal inflation.
+- Electroweak scale: The Higgs mass being so much smaller than expected sets matter---that is, us---to be macroscopically large.
+- Dark matter is produced at some point, which later has a role in galactic dynamics and structure formation.
+
+**Nuclear physics: The early and late universe**
+
+- The accidental near-degeneracy of the neutron and proton 
+
+**Atomic physics**
+
+- Hydrogen being weakly bound
+
+**Stellar physics**
+
+- The age and mass and metallicity and solar wind and
+
+**Planetary sciences**
+
+- Formation of planets and Earth at appropriate distance and with right elements
+- Tectonic motion
+
+**Paleobiology**
+- Formation of self-reproducing molecules, the invention of cells, organelles, ...
+- The development of photosynthesis in early life, the oxygenation of the atmosphere, and the resulting extinctions
+- The development of movement, and of predation, and of a variety of life strategies
+- The development of hard bodies
+- The invention of lignin and the resulting tree-filled era before fungi evolved to break it down
+- The development of eyes and other sense organs
+- The invention of bones
+- The invention of hair
+
+**Paleoanthropology**
+- The development of language
+- The invention of tools
+- The use of fire
+- The invention of agriculture and the domestication of plants
+- The domestication of animals and their use for food and clothing and work
